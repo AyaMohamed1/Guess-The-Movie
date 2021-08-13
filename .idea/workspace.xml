@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d086d650-913e-4fca-95cf-dda9b3ab12d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vJqjnVmelWCVCTIAusWM42UwX1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../space challenge" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GuessTheMovieGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessTheMovieGame" />
+      <module name="GuessTheMovieGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuessTheMovieGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d086d650-913e-4fca-95cf-dda9b3ab12d2" name="Default Changelist" comment="" />
+      <created>1626290676281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626290676281</updated>
+      <workItem from="1626290689801" duration="7044000" />
+      <workItem from="1626978092773" duration="3846000" />
+      <workItem from="1627676108336" duration="595000" />
+      <workItem from="1628085873669" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1627255647772">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1627255647772" />
+    <state width="1253" height="161" key="GridCell.Tab.0.bottom" timestamp="1626307876307">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1626307876307" />
+    <state width="1253" height="161" key="GridCell.Tab.0.center" timestamp="1626307876306">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1626307876306" />
+    <state width="1253" height="161" key="GridCell.Tab.0.left" timestamp="1626307876306">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1626307876306" />
+    <state width="1253" height="161" key="GridCell.Tab.0.right" timestamp="1626307876307">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="161" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1626307876307" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1626978097425">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1626978097425" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1626978141874">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1626978141874" />
+  </component>
+</project>
